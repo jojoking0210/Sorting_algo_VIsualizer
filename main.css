@@ -19,7 +19,7 @@
     color: rgb(29, 28, 38);
     height: 20%;
     display: flex;
-    padding: 1% 5%;
+    padding: 2% 5%;
   }
   
   nav .arr_inputs {
@@ -38,7 +38,7 @@
   
   nav .arr_inputs #arr_generate {
     padding: 1%;
-    color: rgb(10, 84, 245);
+    color: rgb(0, 0, 0);
     border: 2px solid;
     background-color: transparent;
     transition: all 0.25s;
@@ -77,7 +77,7 @@
     padding: 1% ;
     margin: 1%;
 
-    color: rgb(10, 84, 245);
+    color: rgb(0, 0, 0);
     border: 2px solid;
     background-color: transparent;
     transition: all 0.25s;
