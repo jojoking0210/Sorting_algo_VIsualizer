@@ -76,7 +76,7 @@ function runalgo()
     }
 }
 
-var speed=25;
+var speed=15;
 
 inp_aspeed.addEventListener("input",vis_speed);
 
